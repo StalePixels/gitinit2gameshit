@@ -6,5 +6,4 @@
 02 - advent
      A choose your own adventure engine - file access
 03 - snailtrail
-     Find the exit in a maze - layer 3 hardware tilemap
-     
+     Find the exit in a maze - layer 3 hardware textmode tilemap
