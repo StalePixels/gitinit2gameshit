@@ -1,0 +1,5 @@
+hits == episodes / examples / vertical slices
+
+00 = sitrep (ula + input) SYSVAR & NextReg
+01 = randoguess ( CRT + control codes + stdlib ) random number guesser
+
